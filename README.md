@@ -13,6 +13,7 @@ Four in One Telecommunications boostrap Theme/Template is created with Boostrap 
 
 ## Status
 [![Lincense](https://img.shields.io/github/license/DesignofCp/4-in-1-telecommunications)](https://github.com/DesignofCp/4-in-1-Telecommunications/blob/master/LICENSE)
+![CI](https://github.com/DesignofCp/4-in-1-Telecommunications/workflows/CI/badge.svg?branch=master)
 
 ## Download and Installation 
 Clone the repo: git clone `https://github.com/DesignofCp/4-in-1-Telecommunications.git`
