@@ -1,4 +1,4 @@
-# 4-in-1 Telecommunications - Portfolio
+# 4-in-1 Telecommunications - Template
 
 <p align="center">
 <a href="https://designofcp.github.io/4-in-1-Telecommunications/"><img src="https://img.shields.io/github/license/DesignofCp/4-in-1-Telecommunications" alt="License"></a>
