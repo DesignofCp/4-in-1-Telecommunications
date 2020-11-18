@@ -11,6 +11,10 @@
 ## About
 Four in One Telecommunications boostrap Theme/Template is created with Boostrap 4 framework.
 
+## Google Play
+<a href='https://play.google.com/store/apps/details?id=com.a4in1telecommunications.a4in1telecom&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+
 ## Status
 [![Lincense](https://img.shields.io/github/license/DesignofCp/4-in-1-telecommunications)](https://github.com/DesignofCp/4-in-1-Telecommunications/blob/master/LICENSE)
 ![CI](https://github.com/DesignofCp/4-in-1-Telecommunications/workflows/CI/badge.svg?branch=master)
